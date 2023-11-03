@@ -1,0 +1,10 @@
+
+8
+java:S1643"Use a StringBuilder instead.(é“Ä|8¸ìšÚ¸1
+>
+java:S1643"Use a StringBuilder instead.(Ä°ì¬ıÿÿÿÿ8¸ìšÚ¸1
+7
+java:S1220""Move this file to a named package.8¸ìšÚ¸1
+X	java:S125"<This block of commented-out lines of code should be removed.(ãëÎƒ8Ø®ñÛ¸1
+X	java:S125"<This block of commented-out lines of code should be removed.(ãëÎƒ8ÇµşÛ¸1
+L	java:S106+"+Replace this use of System.out by a logger.(¾×úıûÿÿÿÿ8èìšÚ¸1

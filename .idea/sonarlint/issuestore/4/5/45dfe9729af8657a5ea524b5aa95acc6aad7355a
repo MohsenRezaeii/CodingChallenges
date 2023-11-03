@@ -1,0 +1,8 @@
+
+7
+java:S1220""Move this file to a named package.8‹‹Þ¦¹1
+]
+java:S1612
+"AReplace this lambda with method reference 'resultString::append'.(¾Û¨8¤‹Þ¦¹1
+]	java:S125"<This block of commented-out lines of code should be removed.(¦ÖëÆýÿÿÿÿ8¦­Þ¦¹1
+G	java:S106"+Replace this use of System.out by a logger.(Œ¾ÉÑ8­‹Þ¦¹1
