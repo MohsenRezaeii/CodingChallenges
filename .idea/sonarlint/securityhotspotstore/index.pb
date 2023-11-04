@@ -1,18 +1,4 @@
 
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
-D
-src/TotalPoints.java,7\8\782b3233b118fe09d339cfc3878a316b7aba7219
-B
-src/SquareSum.java,f\d\fd4d50078e233504616c20105fda83d7390f50e4
-I
-src/WelcomeCityState.java,2\f\2f5ce08088bcd9feda23a097bda208cde3ffa571
->
-src/Banjo.java,7\a\7add3d793b53166bfe5361f2abf6d7eb0c5cb3ec
-B
-src/SpinWords.java,5\6\567da8155a267f93ae82e6b8d2d76685b57c930d
-J
-src/DescendingInteger.java,4\5\45dfe9729af8657a5ea524b5aa95acc6aad7355a
 Å
 Q.idea/sonarlint/securityhotspotstore/7/a/7add3d793b53166bfe5361f2abf6d7eb0c5cb3ec,e\2\e2992e951978f4341caafcd11952d7ccd307f61f
 Å
@@ -69,3 +55,19 @@ Q.idea/sonarlint/securityhotspotstore/0/e/0e61ba836980ba42bf1fff1713554733cf6959
 Q.idea/sonarlint/securityhotspotstore/0/8/08fc67b50d871ddbca4774b6a56694f893102c43,c\d\cde9f0dd8bd7f024dc31d42d1ff11d99deb05ed2
 Å
 Q.idea/sonarlint/securityhotspotstore/1/e/1ee7bb49ded9fba8ca19c804a239b3925a561072,b\1\b129d377e93170bcb56bfdfa80a56895f791f4ab
+G
+src/main/SquareSum.java,7\8\78dadf01a84f4effba5bc26134d5839c4ffaadb7
+G
+src/main/SpinWords.java,3\1\31fc3abe22cc3ec0f2d1119e38802e8a99ff4a02
+C
+src/main/Banjo.java,5\4\5450f940be102f4db25385dafba71ad43e46e8e5
+N
+src/main/WelcomeCityState.java,a\3\a3c187023e3a72f0ad866621a784657274ad1d0d
+I
+src/main/TotalPoints.java,0\c\0cad0ed09be5f0dc606be9a0f01f6710756c9e9e
+B
+src/main/Main.java,f\e\fe03b4fd3afe162c6e01309b98a22588e093d274
+O
+src/main/DescendingInteger.java,e\7\e760d8d3a7d31dba5b20f1b873cb60465eb6b469
+G
+src/test/BanjoTest.java,1\7\17149544cd48e34e37db4a60f169284458893af8
