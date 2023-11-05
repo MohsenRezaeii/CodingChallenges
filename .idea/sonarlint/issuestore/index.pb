@@ -71,3 +71,6 @@ O
 src/main/DescendingInteger.java,e\7\e760d8d3a7d31dba5b20f1b873cb60465eb6b469
 G
 src/test/BanjoTest.java,1\7\17149544cd48e34e37db4a60f169284458893af8
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
