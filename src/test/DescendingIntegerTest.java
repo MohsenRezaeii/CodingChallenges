@@ -4,7 +4,7 @@ import main.DescendingInteger;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class TestDescedingInteger {
+public class DescendingIntegerTest {
     @Test
     public void testSortDescWithSingleDigit() {
         int result = DescendingInteger.sortDesc(5);
