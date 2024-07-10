@@ -1,4 +1,4 @@
-package main;
+package com.mohsen.codingchallenges;
 
 public class TotalPoints {
     public static int points(String[] games) {

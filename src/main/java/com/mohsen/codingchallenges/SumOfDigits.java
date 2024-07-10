@@ -1,4 +1,4 @@
-package main;
+package com.mohsen.codingchallenges;
 
 public class SumOfDigits {
     public static int calculate(int num) {

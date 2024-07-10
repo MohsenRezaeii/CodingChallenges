@@ -1,6 +1,5 @@
-package test;
+package com.mohsen.codingchallenges;
 
-import main.Banjo;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 

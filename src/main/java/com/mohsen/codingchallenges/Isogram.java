@@ -1,4 +1,4 @@
-package main;
+package com.mohsen.codingchallenges;
 
 import java.util.HashSet;
 import java.util.Set;

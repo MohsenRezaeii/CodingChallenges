@@ -1,4 +1,4 @@
-package main;
+package com.mohsen.codingchallenges;
 
 import java.util.HashMap;
 import java.util.Map;

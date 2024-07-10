@@ -1,6 +1,5 @@
-package test;
+package com.mohsen.codingchallenges;
 
-import main.DescendingInteger;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
