@@ -1,6 +1,5 @@
 package com.mohsen.codingchallenges;
 
-import main.java.BitCounting;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 

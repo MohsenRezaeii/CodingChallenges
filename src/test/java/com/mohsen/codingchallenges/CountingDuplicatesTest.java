@@ -1,6 +1,5 @@
 package com.mohsen.codingchallenges;
 
-import main.java.CountingDuplicates;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
