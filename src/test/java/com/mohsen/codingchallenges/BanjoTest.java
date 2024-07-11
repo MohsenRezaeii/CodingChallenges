@@ -27,7 +27,7 @@ public class BanjoTest {
     @Test
     public void testNotPlayingBanjoEmptyString() {
         String result = Banjo.areYouPlayingBanjo("");
-        assertEquals(" does not play banjo", result); // Empty name should return " does not play banjo"
+        assertEquals(" does not play banjo", result);
     }
 
 }
